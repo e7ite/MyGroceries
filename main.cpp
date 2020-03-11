@@ -5,8 +5,7 @@
 
 using std::cout;
 
-int main()
-{
+int main() {
   char input;
 
   cout << "\n==GROCERY LIST MANAGER==";
