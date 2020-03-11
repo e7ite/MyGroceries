@@ -1,3 +1,3 @@
 CC=g++
 all:
-	$(CC) -Wfatal-errors main.cpp
+	$(CC) -Wfatal-errors -fanalyzer main.cpp
